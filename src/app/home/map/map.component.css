@@ -19,8 +19,8 @@ mat-card {
 }
 
 .dashboard > mat-card {
-  padding: 12px;
-  width: 88px;
+  padding: 6px;
+  width: 100px;
   margin: 10px 10px 0px 0px;
   text-align: center;
 }
